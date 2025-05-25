@@ -1,5 +1,7 @@
 # Data-Science-Capstone-Project
-Collecting data from various sources and improve the quality by performing data wrangling.  
-Query the data with SQL and gather insights. 
-Perform basic statistical analysis and data visualization of correlations. 
-Training and testing data with Cross Validations and refine predictive models for discovering more insights. 
+This project involved the following key steps to extract insights and support data-driven conclusions:
+
+Data Collection & Wrangling: Gathered data from multiple sources and improved its quality through data wrangling..
+Data Exploration with SQL: Queried structured data using SQL and gather actionable insights.
+Statistical Analysis & Visualization: Conducted exploratory data analysis (EDA), visualized correlations.
+Model Development & Evaluation: Applied cross-validation techniques to train and test various predictive models, fine-tuning them for better performance and deeper insights.
